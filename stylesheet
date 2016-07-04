@@ -1,0 +1,7 @@
+div {
+	background-size: 272px 92px;
+	height: 92px;
+	width: 272px;
+	background-image: url("https://www.google.ro/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png");
+	margin: 0 auto;
+}
