@@ -5,7 +5,14 @@
 		<title> Google </title>
 	</head>
 	<body>
+		<div class="header">
+			
+		</div>
 		<div class="logo">
+			
+		</div>
+		<div class="footer">
+			
 			
 		</div>
 	

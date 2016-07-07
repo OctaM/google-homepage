@@ -1,0 +1,62 @@
+.header {
+	position: relative;
+	height: 100px;
+	width: 100%;
+	text-align: right;
+}
+
+.text {
+	position: relative;
+	top: -6px;
+	text-decoration: none;
+	color: gray;
+	text-align: right;
+	font-family: arial, sans-serif;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.text:hover {
+	text-decoration: underline;
+}
+
+#letter	 {
+	border-radius: 25px;
+	
+}
+
+#grid {
+	text-decoration: none;
+	padding-right: 10px;
+}
+
+#letter {
+	position: relative;
+	margin-right: 30px;
+	top: 6px;
+
+}
+
+#bell {
+	position: relative;
+	top: 6px;
+	right: 10px;
+	
+}
+
+#logo {
+	padding-top: 90px;
+	padding-left: 540px;
+}
+
+.logo-subtext {
+	color: #4285f4;
+	font: 16px/16px roboto-regular, arial, sans-serif;
+	padding-left: 750px;
+	position: relative;
+	padding-top: 0px;
+	border-top: -220px;
+	margin-top: -20px;
+
+}
